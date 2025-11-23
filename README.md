@@ -1,5 +1,5 @@
 # 🎨 ASCII Art Generator
-A CLI based tool **developed in C++** that displays image files as ASCII art in terminal.
+A CLI based tool **developed in C++** that displays image files as colorized ASCII art in terminal.
 
 ---
 ### Heavily inspired by [Xander Gouws's](https://www.youtube.com/@XanderGouws) video on [ascii-view](https://github.com/gouwsxander/ascii-view) (developed in C)
