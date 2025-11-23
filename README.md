@@ -28,6 +28,8 @@ ascii.exe <path_to_the_image> [OPTIONS]
 - `-cr <ratio>`: Height-to-width ratio for characters (default 2.0)
 - `--retro-colors`: Uses 3-bit colors for pixels.
 
+<mark>Tip: Decreasing font size (zooming out in the terminal) can help improve the quality. 😊</mark>
+
 ### Examples
 ```bash
 # Basic usage with default dimensions
